@@ -1,0 +1,17 @@
+{
+  "name": "dataextraction",
+  "version": "1.0.0",
+  "description": "A script to transfer json files to sql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MSM",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^8.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
+}
